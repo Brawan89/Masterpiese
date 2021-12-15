@@ -12,4 +12,9 @@
 - Status:  service provider has a status to let other service requests know if it is busy or available.
 - Search: Both a service provider and service request are able to search the platform.
 - Chat: Both a service provider and service request are can communicate between them.
-- admin: can see the chat between service provider and service request.
+
+
+# Admin Story
+- Chat: can see the chat between service provider and service request.
+- Delete users: He can delete any user if the rating is low.
+- Delete posts: He can delete the posts if they are inappropriate
