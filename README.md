@@ -15,6 +15,6 @@
 
 
 # Admin Story
-- Chat: can see the chat between service provider and service request.
-- Delete users: He can delete any user if the rating is low.
-- Delete posts: He can delete the posts if they are inappropriate
+- Chat:  can see the chat between service provider and service request.
+- Delete users:  He can delete any user if the rating is low.
+- Delete posts:  He can delete the posts if they are inappropriate
