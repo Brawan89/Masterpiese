@@ -12,3 +12,4 @@
 - Status:  service provider has a status to let other service requests know if it is busy or available.
 - Search: Both a service provider and service request are able to search the platform.
 - Chat: Both a service provider and service request are can communicate between them.
+- admin: can see the chat between service provider and service request.
